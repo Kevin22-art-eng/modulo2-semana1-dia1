@@ -1,8 +1,8 @@
 Reflexión sobre comunicación digital responsable – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:kevin
+Fecha:11/05/2026
+Nombre de la rama:kevin_quintero
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,5 @@ En tu respuesta menciona al menos dos de estas ideas:
 - lenguaje claro
 - transparencia
 
-Respuesta:
+Respuesta:Una comunidad necesita herramientas digitales para publicar información clara y responder con responsabilidad, porque así se fortalece la participación ciudadana. Cuando las personas confían en que sus propuestas serán escuchadas, se construye una base de confianza comunitaria. El uso de lenguaje claro evita malentendidos y promueve la convivencia digital. Además, estas plataformas ayudan a la prevención de desinformación, ya que la información circula de manera organizada y verificable. Responder con transparencia fomenta una cultura de paz, donde las diferencias se gestionan con respeto. En conjunto, estas herramientas convierten a la comunidad en un espacio más inclusivo y participativo.
+
