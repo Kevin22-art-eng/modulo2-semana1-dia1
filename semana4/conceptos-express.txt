@@ -1,47 +1,48 @@
 Conceptos básicos de Express – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: kevin
+Fecha:11/05/2026
+Nombre de la rama:kevin_quintero
 
 Responde con tus propias palabras.
 
 1. ¿Qué es Express?
 
-Respuesta:
+Respuesta:Es una librería de Node.js que facilita crear servidores y manejar rutas de forma rápida y organizada.
 
 2. ¿Qué diferencia básica hay entre Node.js y Express?
 
-Respuesta:
+Respuesta:Node.js es la plataforma que permite ejecutar JavaScript fuera del navegador, mientras que Express es una herramienta que se usa dentro de Node.js para construir aplicaciones web más fácilmente.
 
 3. ¿Qué hace el comando npm install express?
 
-Respuesta:
+Respuesta:Descarga e instala la librería Express en tu proyecto para que puedas usarla en tu servidor.
 
 4. ¿Qué hace el comando npm start en esta práctica?
 
-Respuesta:
+Respuesta:Inicia el servidor definido en tu proyecto, permitiendo que las rutas creadas con Express se puedan probar en el navegador.
 
 5. ¿Qué es una ruta en Express?
 
-Respuesta:
+Respuesta:Es el camino o dirección que el servidor reconoce para responder a una solicitud, como /campaña o /avisos.
 
 6. ¿Para qué usamos una ruta GET?
 
-Respuesta:
+Respuesta:Para pedir información al servidor, por ejemplo mostrar una página o consultar datos.
 
 7. ¿Para qué usamos una ruta POST?
 
-Respuesta:
+Respuesta:Para enviar información al servidor, como cuando agregamos una nueva campaña o aviso.
 
 8. ¿Qué significa req en una ruta?
 
-Respuesta:
+Respuesta:Es el objeto que representa la solicitud del cliente, incluyendo datos enviados y detalles de la petición.
 
 9. ¿Qué significa res en una ruta?
 
-Respuesta:
+Respuesta:Es el objeto que representa la respuesta que el servidor envía al cliente, como texto, JSON o una página.
 
 10. ¿Cómo puede servir Express para construir herramientas de comunicación comunitaria?
 
-Respuesta:
+Respuesta:Permite crear plataformas donde las personas pueden enviar propuestas, publicar avisos o participar en campañas, organizando la información de manera clara y accesible para todos.
+
